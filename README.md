@@ -1,0 +1,4 @@
+- 👋 Hi, I’m S0L1
+- 👀 I’m interested in explore
+- 🌱 I’m currently learning python and pua
+- 📫 my email address afk@ik.me
